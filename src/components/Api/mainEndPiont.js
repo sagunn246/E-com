@@ -1,4 +1,4 @@
-const mainEndPoint = 'http://localhost:3000/'
+const mainEndPoint = 'https://backend-d4mo.onrender.com/'
 export default mainEndPoint
 
 
